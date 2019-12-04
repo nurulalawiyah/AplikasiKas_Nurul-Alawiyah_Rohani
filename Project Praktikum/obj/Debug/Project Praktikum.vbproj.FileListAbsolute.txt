@@ -1,0 +1,22 @@
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.exe.config
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.exe
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.pdb
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.xml
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.vbprojResolveAssemblyReference.cache
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project_Praktikum.Form1.resources
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project_Praktikum.Resources.resources
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.vbproj.GenerateResource.Cache
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.exe
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.xml
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.pdb
+C:\Users\ACER\Documents\Semester5\Program Visual\praktikum2\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.exe.config
+C:\Users\ACER\Documents\Semester5\Program Visual\praktikum2\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.exe
+C:\Users\ACER\Documents\Semester5\Program Visual\praktikum2\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.xml
+C:\Users\ACER\Documents\Semester5\Program Visual\praktikum2\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.pdb
+C:\Users\ACER\Documents\Semester5\Program Visual\praktikum2\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.exe
+C:\Users\ACER\Documents\Semester5\Program Visual\praktikum2\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.pdb
+C:\Users\ACER\Documents\Semester5\Program Visual\praktikum2\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.xml
+C:\Users\ACER\Documents\Semester5\Program Visual\praktikum2\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Semester5\Program Visual\praktikum2\Project Praktikum\Project Praktikum\obj\Debug\Project_Praktikum.Form1.resources
+C:\Users\ACER\Documents\Semester5\Program Visual\praktikum2\Project Praktikum\Project Praktikum\obj\Debug\Project_Praktikum.Resources.resources
+C:\Users\ACER\Documents\Semester5\Program Visual\praktikum2\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.vbproj.GenerateResource.Cache
